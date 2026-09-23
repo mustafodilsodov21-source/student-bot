@@ -1,0 +1,1819 @@
+2026-09-14 14:16:04,285 | INFO | student_bot | Application starting
+2026-09-14 14:16:04,285 | INFO | student_bot | Database initialized
+2026-09-14 14:16:04,286 | INFO | student_bot | Routers registered
+2026-09-14 14:16:04,684 | INFO | student_bot | Bot commands configured
+2026-09-14 14:16:04,835 | INFO | student_bot | Student Bot is running
+2026-09-14 14:16:04,835 | INFO | aiogram.dispatcher | Start polling
+2026-09-14 14:16:04,945 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-14 14:16:24,167 | INFO | aiogram.event | Update id=20805701 is handled. Duration 344 ms by bot id=8788022379
+2026-09-14 14:16:25,953 | INFO | aiogram.event | Update id=20805702 is handled. Duration 219 ms by bot id=8788022379
+2026-09-14 14:16:28,684 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-14 14:16:28,801 | INFO | aiogram.event | Update id=20805703 is handled. Duration 109 ms by bot id=8788022379
+2026-09-14 14:16:33,945 | INFO | aiogram.event | Update id=20805704 is handled. Duration 280 ms by bot id=8788022379
+2026-09-14 14:16:38,202 | INFO | aiogram.event | Update id=20805705 is handled. Duration 109 ms by bot id=8788022379
+2026-09-14 14:16:41,754 | INFO | aiogram.event | Update id=20805706 is handled. Duration 109 ms by bot id=8788022379
+2026-09-14 14:16:51,833 | INFO | handlers.users.start | User 1358152287 | action=registration_completed | name=мустафо дилшодов
+2026-09-14 14:16:51,956 | INFO | aiogram.event | Update id=20805707 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:16:59,557 | INFO | handlers.users.start | User 1358152287 | action=view_profile
+2026-09-14 14:16:59,772 | INFO | aiogram.event | Update id=20805708 is handled. Duration 218 ms by bot id=8788022379
+2026-09-14 14:17:02,870 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-14 14:17:02,984 | INFO | aiogram.event | Update id=20805709 is handled. Duration 108 ms by bot id=8788022379
+2026-09-14 14:18:04,108 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-14 14:18:04,517 | INFO | aiogram.event | Update id=20805710 is handled. Duration 407 ms by bot id=8788022379
+2026-09-14 14:18:13,858 | INFO | handlers.users.start | Admin 1358152287 | action=stats | students=1
+2026-09-14 14:18:13,985 | INFO | aiogram.event | Update id=20805711 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:18:18,027 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-14 14:18:18,154 | INFO | aiogram.event | Update id=20805712 is handled. Duration 139 ms by bot id=8788022379
+2026-09-14 14:18:21,088 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-14 14:18:21,219 | INFO | aiogram.event | Update id=20805713 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:18:24,023 | INFO | aiogram.event | Update id=20805714 is handled. Duration 139 ms by bot id=8788022379
+2026-09-14 14:18:29,369 | INFO | handlers.users.start | User 1358152287 | action=edit_started
+2026-09-14 14:18:29,501 | INFO | aiogram.event | Update id=20805715 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:18:40,752 | INFO | aiogram.event | Update id=20805716 is handled. Duration 109 ms by bot id=8788022379
+2026-09-14 14:18:48,602 | INFO | aiogram.event | Update id=20805717 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:18:51,587 | INFO | aiogram.event | Update id=20805718 is handled. Duration 218 ms by bot id=8788022379
+2026-09-14 14:18:59,949 | INFO | handlers.users.start | User 1358152287 | action=profile_updated | field=first_name
+2026-09-14 14:19:00,069 | INFO | aiogram.event | Update id=20805719 is handled. Duration 110 ms by bot id=8788022379
+2026-09-14 14:19:06,220 | INFO | handlers.users.start | User 1358152287 | action=view_profile
+2026-09-14 14:19:06,354 | INFO | aiogram.event | Update id=20805720 is handled. Duration 139 ms by bot id=8788022379
+2026-09-14 14:27:52,666 | INFO | handlers.users.start | User 6761866441 | command=/start | name=Idrisov Jasurbek
+2026-09-14 14:27:53,040 | INFO | aiogram.event | Update id=20805721 is handled. Duration 375 ms by bot id=8788022379
+2026-09-14 14:28:12,137 | INFO | handlers.users.start | User 6761866441 | action=registration_started
+2026-09-14 14:28:12,515 | INFO | aiogram.event | Update id=20805722 is handled. Duration 375 ms by bot id=8788022379
+2026-09-14 14:28:25,626 | INFO | handlers.users.start | User 6761866441 | action=registration_started
+2026-09-14 14:28:25,755 | INFO | aiogram.event | Update id=20805723 is handled. Duration 141 ms by bot id=8788022379
+2026-09-14 14:28:40,789 | INFO | aiogram.event | Update id=20805724 is handled. Duration 140 ms by bot id=8788022379
+2026-09-14 14:28:41,727 | INFO | aiogram.event | Update id=20805725 is handled. Duration 139 ms by bot id=8788022379
+2026-09-14 14:28:42,166 | INFO | aiogram.event | Update id=20805726 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:28:42,605 | INFO | aiogram.event | Update id=20805727 is handled. Duration 139 ms by bot id=8788022379
+2026-09-14 14:28:42,786 | INFO | aiogram.event | Update id=20805728 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:33:38,047 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-14 14:33:38,311 | INFO | student_bot | Bot stopped
+2026-09-14 14:33:38,311 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-14 14:33:38,318 | INFO | student_bot | Application stopped by user
+2026-09-14 14:37:50,162 | INFO | student_bot | Application starting
+2026-09-14 14:37:50,162 | INFO | student_bot | Database initialized
+2026-09-14 14:37:50,162 | INFO | student_bot | Routers registered
+2026-09-14 14:37:50,532 | INFO | student_bot | Bot commands configured
+2026-09-14 14:37:50,675 | INFO | student_bot | Student Bot is running
+2026-09-14 14:37:50,675 | INFO | aiogram.dispatcher | Start polling
+2026-09-14 14:37:50,768 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-14 14:38:01,134 | INFO | aiogram.event | Update id=20805729 is handled. Duration 344 ms by bot id=8788022379
+2026-09-14 14:38:05,040 | INFO | aiogram.event | Update id=20805730 is handled. Duration 188 ms by bot id=8788022379
+2026-09-14 14:38:07,681 | INFO | handlers.users.start | User 1358152287 | action=profile_deleted
+2026-09-14 14:38:08,054 | INFO | aiogram.event | Update id=20805731 is handled. Duration 390 ms by bot id=8788022379
+2026-09-14 14:38:10,940 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-14 14:38:11,060 | INFO | aiogram.event | Update id=20805732 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:38:16,267 | INFO | aiogram.event | Update id=20805733 is handled. Duration 110 ms by bot id=8788022379
+2026-09-14 14:38:21,759 | INFO | aiogram.event | Update id=20805734 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:38:24,117 | INFO | aiogram.event | Update id=20805735 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:38:27,519 | INFO | handlers.users.start | User 1358152287 | action=registration_completed | name=mustafo dilsodov
+2026-09-14 14:38:27,642 | INFO | aiogram.event | Update id=20805736 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:38:54,456 | INFO | handlers.users.start | User 6761866441 | command=/start | name=Idrisov Jasurbek
+2026-09-14 14:38:54,775 | INFO | aiogram.event | Update id=20805737 is handled. Duration 328 ms by bot id=8788022379
+2026-09-14 14:39:15,212 | INFO | handlers.users.start | User 6761866441 | action=registration_started
+2026-09-14 14:39:15,604 | INFO | aiogram.event | Update id=20805738 is handled. Duration 405 ms by bot id=8788022379
+2026-09-14 14:39:31,961 | INFO | aiogram.event | Update id=20805739 is handled. Duration 327 ms by bot id=8788022379
+2026-09-14 14:39:37,611 | INFO | aiogram.event | Update id=20805740 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:39:45,069 | INFO | aiogram.event | Update id=20805741 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:39:51,966 | INFO | handlers.users.start | User 6761866441 | action=registration_completed | name=Jasur Idrisov
+2026-09-14 14:39:52,095 | INFO | aiogram.event | Update id=20805742 is handled. Duration 140 ms by bot id=8788022379
+2026-09-14 14:40:03,014 | INFO | handlers.users.start | User 6761866441 | action=view_profile
+2026-09-14 14:40:03,136 | INFO | aiogram.event | Update id=20805743 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:40:28,958 | INFO | handlers.users.start | User 6761866441 | action=edit_started
+2026-09-14 14:40:29,300 | INFO | aiogram.event | Update id=20805744 is handled. Duration 344 ms by bot id=8788022379
+2026-09-14 14:40:38,658 | INFO | aiogram.event | Update id=20805745 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:40:44,508 | INFO | handlers.users.start | User 6761866441 | action=profile_updated | field=age
+2026-09-14 14:40:44,630 | INFO | aiogram.event | Update id=20805746 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:40:48,035 | INFO | handlers.users.start | User 6761866441 | action=view_profile
+2026-09-14 14:40:48,157 | INFO | aiogram.event | Update id=20805747 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:40:59,312 | INFO | aiogram.event | Update id=20805748 is handled. Duration 156 ms by bot id=8788022379
+2026-09-14 14:41:05,532 | INFO | handlers.users.start | User 6761866441 | action=profile_deleted
+2026-09-14 14:41:05,878 | INFO | aiogram.event | Update id=20805749 is handled. Duration 359 ms by bot id=8788022379
+2026-09-14 14:41:08,900 | INFO | aiogram.event | Update id=20805750 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:46:25,212 | INFO | handlers.users.start | User 5915282761 | command=/start | name=𝔖𝔬𝔪𝔢𝔒𝔫𝔢
+2026-09-14 14:46:25,593 | INFO | aiogram.event | Update id=20805751 is handled. Duration 375 ms by bot id=8788022379
+2026-09-14 14:46:29,801 | INFO | handlers.users.start | User 5915282761 | action=registration_started
+2026-09-14 14:46:29,936 | INFO | aiogram.event | Update id=20805752 is handled. Duration 140 ms by bot id=8788022379
+2026-09-14 14:46:34,562 | INFO | aiogram.event | Update id=20805753 is handled. Duration 125 ms by bot id=8788022379
+2026-09-14 14:46:39,396 | INFO | aiogram.event | Update id=20805754 is handled. Duration 157 ms by bot id=8788022379
+2026-09-14 14:46:43,460 | INFO | aiogram.event | Update id=20805755 is handled. Duration 140 ms by bot id=8788022379
+2026-09-14 14:46:49,351 | INFO | aiogram.event | Update id=20805756 is handled. Duration 170 ms by bot id=8788022379
+2026-09-14 14:46:57,090 | INFO | handlers.users.start | User 5915282761 | action=registration_completed | name=erini ami haromi
+2026-09-14 14:46:57,250 | INFO | aiogram.event | Update id=20805757 is handled. Duration 156 ms by bot id=8788022379
+2026-09-14 14:47:19,510 | INFO | handlers.users.start | User 5915282761 | action=view_profile
+2026-09-14 14:47:19,851 | INFO | aiogram.event | Update id=20805758 is handled. Duration 358 ms by bot id=8788022379
+2026-09-14 14:49:07,949 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=2
+2026-09-14 14:49:08,344 | INFO | aiogram.event | Update id=20805759 is handled. Duration 405 ms by bot id=8788022379
+2026-09-14 14:49:46,228 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=2
+2026-09-14 14:49:46,578 | INFO | aiogram.event | Update id=20805760 is handled. Duration 359 ms by bot id=8788022379
+2026-09-14 14:50:04,749 | INFO | aiogram.event | Update id=20805761 is handled. Duration 312 ms by bot id=8788022379
+2026-09-14 14:50:11,881 | INFO | aiogram.event | Update id=20805762 is not handled. Duration 5641 ms by bot id=8788022379
+2026-09-14 14:50:11,881 | ERROR | aiogram.event | Cause exception while process update id=20805762 by bot id=8788022379
+OperationalError: database is locked
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 504, in delete_confirm
+    db.delete_student(user_id)
+  File "C:\Users\Comping Uz\aiogram3-template\utils\db_api\sqlite.py", line 133, in delete_student
+    connection.commit()
+sqlite3.OperationalError: database is locked
+2026-09-14 14:50:15,177 | INFO | aiogram.event | Update id=20805763 is handled. Duration 140 ms by bot id=8788022379
+2026-09-14 14:50:22,061 | INFO | aiogram.event | Update id=20805764 is not handled. Duration 5594 ms by bot id=8788022379
+2026-09-14 14:50:22,061 | ERROR | aiogram.event | Cause exception while process update id=20805764 by bot id=8788022379
+OperationalError: database is locked
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 504, in delete_confirm
+    db.delete_student(user_id)
+  File "C:\Users\Comping Uz\aiogram3-template\utils\db_api\sqlite.py", line 133, in delete_student
+    connection.commit()
+sqlite3.OperationalError: database is locked
+2026-09-14 14:50:27,707 | INFO | aiogram.event | Update id=20805765 is not handled. Duration 5639 ms by bot id=8788022379
+2026-09-14 14:50:27,707 | ERROR | aiogram.event | Cause exception while process update id=20805765 by bot id=8788022379
+OperationalError: database is locked
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 504, in delete_confirm
+    db.delete_student(user_id)
+  File "C:\Users\Comping Uz\aiogram3-template\utils\db_api\sqlite.py", line 133, in delete_student
+    connection.commit()
+sqlite3.OperationalError: database is locked
+2026-09-14 14:50:33,358 | INFO | aiogram.event | Update id=20805766 is not handled. Duration 5655 ms by bot id=8788022379
+2026-09-14 14:50:33,358 | ERROR | aiogram.event | Cause exception while process update id=20805766 by bot id=8788022379
+OperationalError: database is locked
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 504, in delete_confirm
+    db.delete_student(user_id)
+  File "C:\Users\Comping Uz\aiogram3-template\utils\db_api\sqlite.py", line 133, in delete_student
+    connection.commit()
+sqlite3.OperationalError: database is locked
+2026-09-14 14:50:39,014 | INFO | aiogram.event | Update id=20805767 is not handled. Duration 5657 ms by bot id=8788022379
+2026-09-14 14:50:39,014 | ERROR | aiogram.event | Cause exception while process update id=20805767 by bot id=8788022379
+OperationalError: database is locked
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 504, in delete_confirm
+    db.delete_student(user_id)
+  File "C:\Users\Comping Uz\aiogram3-template\utils\db_api\sqlite.py", line 133, in delete_student
+    connection.commit()
+sqlite3.OperationalError: database is locked
+2026-09-14 14:51:30,063 | INFO | aiogram.event | Update id=20805768 is not handled. Duration 5671 ms by bot id=8788022379
+2026-09-14 14:51:30,064 | ERROR | aiogram.event | Cause exception while process update id=20805768 by bot id=8788022379
+OperationalError: database is locked
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 504, in delete_confirm
+    db.delete_student(user_id)
+  File "C:\Users\Comping Uz\aiogram3-template\utils\db_api\sqlite.py", line 133, in delete_student
+    connection.commit()
+sqlite3.OperationalError: database is locked
+2026-09-14 14:51:30,406 | INFO | aiogram.event | Update id=20805769 is handled. Duration 343 ms by bot id=8788022379
+2026-09-14 14:51:41,449 | INFO | aiogram.event | Update id=20805770 is not handled. Duration 5625 ms by bot id=8788022379
+2026-09-14 14:51:41,449 | ERROR | aiogram.event | Cause exception while process update id=20805770 by bot id=8788022379
+OperationalError: database is locked
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 504, in delete_confirm
+    db.delete_student(user_id)
+  File "C:\Users\Comping Uz\aiogram3-template\utils\db_api\sqlite.py", line 133, in delete_student
+    connection.commit()
+sqlite3.OperationalError: database is locked
+2026-09-14 14:56:13,545 | INFO | aiogram.event | Update id=20805771 is handled. Duration 938 ms by bot id=8788022379
+2026-09-14 14:56:15,158 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-14 14:56:15,352 | INFO | aiogram.event | Update id=20805772 is handled. Duration 202 ms by bot id=8788022379
+2026-09-14 14:56:43,560 | INFO | aiogram.event | Update id=20805773 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-14 14:58:18,563 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-14 14:58:18,754 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-14 14:58:18,754 | INFO | student_bot | Bot stopped
+2026-09-14 14:58:18,764 | INFO | student_bot | Application stopped by user
+2026-09-14 14:58:21,921 | INFO | student_bot | Application starting
+2026-09-14 14:58:21,921 | INFO | student_bot | Database initialized
+2026-09-14 14:58:21,921 | INFO | student_bot | Routers registered
+2026-09-14 14:58:22,235 | INFO | student_bot | Bot commands configured
+2026-09-14 14:58:22,372 | INFO | student_bot | Student Bot is running
+2026-09-14 14:58:22,372 | INFO | aiogram.dispatcher | Start polling
+2026-09-14 14:58:22,474 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-14 14:58:31,730 | INFO | aiogram.event | Update id=20805774 is handled. Duration 342 ms by bot id=8788022379
+2026-09-14 14:58:38,791 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-14 14:58:38,918 | INFO | aiogram.event | Update id=20805775 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 13:38:32,540 | INFO | student_bot | Application starting
+2026-09-18 13:38:32,540 | INFO | student_bot | Database initialized
+2026-09-18 13:38:32,540 | INFO | student_bot | Routers registered
+2026-09-18 13:38:32,958 | INFO | student_bot | Bot commands configured
+2026-09-18 13:38:33,284 | INFO | student_bot | Student Bot is running
+2026-09-18 13:38:33,289 | INFO | aiogram.dispatcher | Start polling
+2026-09-18 13:38:33,389 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 13:38:39,650 | INFO | handlers.users.start | User 1358152287 | action=edit_started
+2026-09-18 13:38:39,985 | INFO | aiogram.event | Update id=20805778 is handled. Duration 327 ms by bot id=8788022379
+2026-09-18 13:38:43,566 | INFO | aiogram.event | Update id=20805779 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 13:38:48,084 | INFO | aiogram.event | Update id=20805780 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 13:38:58,004 | INFO | handlers.users.start | User 1358152287 | action=cancel
+2026-09-18 13:38:58,200 | INFO | aiogram.event | Update id=20805781 is handled. Duration 202 ms by bot id=8788022379
+2026-09-18 13:39:01,837 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-18 13:39:01,969 | INFO | aiogram.event | Update id=20805782 is handled. Duration 141 ms by bot id=8788022379
+2026-09-18 13:40:35,696 | INFO | handlers.users.start | Admin 1358152287 | action=stats | students=1
+2026-09-18 13:40:36,017 | INFO | aiogram.event | Update id=20805783 is handled. Duration 327 ms by bot id=8788022379
+2026-09-18 14:23:21,849 | INFO | student_bot | Application starting
+2026-09-18 14:23:21,849 | INFO | student_bot | Database initialized
+2026-09-18 14:23:21,849 | INFO | student_bot | Routers registered
+2026-09-18 14:23:22,200 | INFO | student_bot | Bot commands configured
+2026-09-18 14:23:22,368 | INFO | student_bot | Student Bot is running
+2026-09-18 14:23:22,369 | INFO | aiogram.dispatcher | Start polling
+2026-09-18 14:23:22,464 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 14:23:29,236 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-18 14:23:29,609 | INFO | aiogram.event | Update id=20805784 is handled. Duration 375 ms by bot id=8788022379
+2026-09-18 14:23:32,947 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-18 14:23:33,096 | INFO | aiogram.event | Update id=20805785 is handled. Duration 156 ms by bot id=8788022379
+2026-09-18 14:23:36,053 | INFO | aiogram.event | Update id=20805786 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:23:38,654 | INFO | aiogram.event | Update id=20805787 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:23:40,038 | INFO | handlers.users.start | User 1358152287 | action=profile_deleted
+2026-09-18 14:23:40,449 | INFO | aiogram.event | Update id=20805788 is handled. Duration 421 ms by bot id=8788022379
+2026-09-18 14:23:45,504 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-18 14:23:45,635 | INFO | aiogram.event | Update id=20805789 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:23:47,922 | INFO | handlers.users.start | User 1358152287 | action=cancel
+2026-09-18 14:23:48,048 | INFO | aiogram.event | Update id=20805790 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:23:49,781 | INFO | aiogram.event | Update id=20805791 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:23:51,640 | INFO | handlers.users.start | Admin 1358152287 | action=stats | students=0
+2026-09-18 14:23:51,766 | INFO | aiogram.event | Update id=20805792 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:23:53,916 | INFO | handlers.users.start | Admin 1358152287 | action=stats | students=0
+2026-09-18 14:23:54,041 | INFO | aiogram.event | Update id=20805793 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:23:55,414 | INFO | aiogram.event | Update id=20805794 is handled. Duration 156 ms by bot id=8788022379
+2026-09-18 14:23:57,911 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-18 14:23:58,065 | INFO | aiogram.event | Update id=20805795 is handled. Duration 156 ms by bot id=8788022379
+2026-09-18 14:23:59,903 | INFO | aiogram.event | Update id=20805796 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:24:02,645 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-18 14:24:02,826 | INFO | aiogram.event | Update id=20805797 is handled. Duration 186 ms by bot id=8788022379
+2026-09-18 14:24:57,052 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-18 14:24:57,317 | INFO | student_bot | Bot stopped
+2026-09-18 14:24:57,318 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 14:24:57,318 | INFO | student_bot | Application stopped by user
+2026-09-18 14:25:00,194 | INFO | student_bot | Application starting
+2026-09-18 14:25:00,194 | INFO | student_bot | Database initialized
+2026-09-18 14:25:00,194 | INFO | student_bot | Routers registered
+2026-09-18 14:25:00,530 | INFO | student_bot | Bot commands configured
+2026-09-18 14:25:00,731 | INFO | student_bot | Student Bot is running
+2026-09-18 14:25:00,731 | INFO | aiogram.dispatcher | Start polling
+2026-09-18 14:25:00,838 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 14:25:08,787 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-18 14:25:09,121 | INFO | aiogram.event | Update id=20805798 is handled. Duration 343 ms by bot id=8788022379
+2026-09-18 14:26:24,556 | INFO | aiogram.event | Update id=20805799 is handled. Duration 328 ms by bot id=8788022379
+2026-09-18 14:26:27,019 | INFO | aiogram.event | Update id=20805800 is handled. Duration 218 ms by bot id=8788022379
+2026-09-18 14:26:56,714 | INFO | aiogram.event | Update id=20805801 is handled. Duration 453 ms by bot id=8788022379
+2026-09-18 14:27:00,947 | INFO | aiogram.event | Update id=20805802 is not handled. Duration 14 ms by bot id=8788022379
+2026-09-18 14:27:00,947 | ERROR | aiogram.event | Cause exception while process update id=20805802 by bot id=8788022379
+AttributeError: 'Database' object has no attribute 'get_all_telegram_ids'
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 131, in send_ad
+    telegram_ids = db.get_all_telegram_ids()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'get_all_telegram_ids'
+2026-09-18 14:27:03,204 | INFO | aiogram.event | Update id=20805803 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:27:03,204 | ERROR | aiogram.event | Cause exception while process update id=20805803 by bot id=8788022379
+AttributeError: 'Database' object has no attribute 'get_all_telegram_ids'
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 131, in send_ad
+    telegram_ids = db.get_all_telegram_ids()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'get_all_telegram_ids'
+2026-09-18 14:27:04,510 | INFO | aiogram.event | Update id=20805804 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:27:04,510 | ERROR | aiogram.event | Cause exception while process update id=20805804 by bot id=8788022379
+AttributeError: 'Database' object has no attribute 'get_all_telegram_ids'
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 131, in send_ad
+    telegram_ids = db.get_all_telegram_ids()
+                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Database' object has no attribute 'get_all_telegram_ids'
+2026-09-18 14:29:30,016 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-18 14:29:30,282 | INFO | student_bot | Bot stopped
+2026-09-18 14:29:30,282 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 14:29:30,282 | INFO | student_bot | Application stopped by user
+2026-09-18 14:29:34,483 | INFO | student_bot | Application starting
+2026-09-18 14:29:34,483 | INFO | student_bot | Database initialized
+2026-09-18 14:29:34,483 | INFO | student_bot | Routers registered
+2026-09-18 14:29:34,852 | INFO | student_bot | Bot commands configured
+2026-09-18 14:29:35,005 | INFO | student_bot | Student Bot is running
+2026-09-18 14:29:35,009 | INFO | aiogram.dispatcher | Start polling
+2026-09-18 14:29:35,108 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 14:29:44,748 | INFO | aiogram.event | Update id=20805805 is handled. Duration 327 ms by bot id=8788022379
+2026-09-18 14:29:48,282 | INFO | aiogram.event | Update id=20805806 is handled. Duration 234 ms by bot id=8788022379
+2026-09-18 14:30:05,997 | INFO | aiogram.event | Update id=20805807 is handled. Duration 500 ms by bot id=8788022379
+2026-09-18 14:30:08,516 | INFO | aiogram.event | Update id=20805808 is handled. Duration 250 ms by bot id=8788022379
+2026-09-18 14:31:24,596 | INFO | handlers.users.start | User 7526643245 | command=/start | name=.
+2026-09-18 14:31:24,966 | INFO | aiogram.event | Update id=20805809 is handled. Duration 375 ms by bot id=8788022379
+2026-09-18 14:31:37,942 | INFO | aiogram.event | Update id=20805810 is handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:31:40,185 | INFO | aiogram.event | Update id=20805811 is handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:31:41,480 | INFO | aiogram.event | Update id=20805812 is handled. Duration 389 ms by bot id=8788022379
+2026-09-18 14:31:44,285 | INFO | handlers.users.start | User 7526643245 | action=registration_started
+2026-09-18 14:31:44,416 | INFO | aiogram.event | Update id=20805813 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:31:48,520 | INFO | aiogram.event | Update id=20805814 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:31:51,511 | INFO | aiogram.event | Update id=20805815 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:31:58,631 | INFO | aiogram.event | Update id=20805816 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:32:03,934 | INFO | handlers.users.start | User 7526643245 | action=registration_completed | name=Mustafo Dil
+2026-09-18 14:32:04,100 | INFO | aiogram.event | Update id=20805817 is handled. Duration 172 ms by bot id=8788022379
+2026-09-18 14:32:24,681 | INFO | aiogram.event | Update id=20805818 is handled. Duration 468 ms by bot id=8788022379
+2026-09-18 14:32:29,666 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-18 14:32:29,802 | INFO | aiogram.event | Update id=20805819 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:32:35,614 | INFO | handlers.users.start | User 1358152287 | action=cancel
+2026-09-18 14:32:35,747 | INFO | aiogram.event | Update id=20805820 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:32:49,216 | INFO | aiogram.event | Update id=20805821 is handled. Duration 141 ms by bot id=8788022379
+2026-09-18 14:32:51,618 | INFO | aiogram.event | Update id=20805822 is handled. Duration 234 ms by bot id=8788022379
+2026-09-18 14:33:01,941 | INFO | aiogram.event | Update id=20805823 is handled. Duration 250 ms by bot id=8788022379
+2026-09-18 14:33:05,282 | INFO | aiogram.event | Update id=20805824 is handled. Duration 890 ms by bot id=8788022379
+2026-09-18 14:35:21,275 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-18 14:35:21,674 | INFO | aiogram.event | Update id=20805825 is handled. Duration 390 ms by bot id=8788022379
+2026-09-18 14:35:35,270 | INFO | handlers.users.start | User 7526643245 | action=view_profile
+2026-09-18 14:35:35,396 | INFO | aiogram.event | Update id=20805826 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:35:39,790 | INFO | aiogram.event | Update id=20805827 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:35:47,334 | INFO | handlers.users.start | User 7526643245 | action=profile_deleted
+2026-09-18 14:35:47,730 | INFO | aiogram.event | Update id=20805828 is handled. Duration 406 ms by bot id=8788022379
+2026-09-18 14:35:51,051 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=0
+2026-09-18 14:35:51,169 | INFO | aiogram.event | Update id=20805829 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:36:00,017 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-18 14:36:00,218 | INFO | aiogram.event | Update id=20805830 is handled. Duration 203 ms by bot id=8788022379
+2026-09-18 14:36:02,987 | INFO | handlers.users.start | User 7526643245 | action=registration_started
+2026-09-18 14:36:03,115 | INFO | aiogram.event | Update id=20805831 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:36:13,561 | INFO | aiogram.event | Update id=20805832 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:36:18,827 | INFO | aiogram.event | Update id=20805833 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:36:23,005 | INFO | aiogram.event | Update id=20805834 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:36:25,733 | INFO | handlers.users.start | User 7526643245 | action=registration_completed | name=Mustafo Dilshodov
+2026-09-18 14:36:25,902 | INFO | aiogram.event | Update id=20805835 is handled. Duration 186 ms by bot id=8788022379
+2026-09-18 14:36:50,617 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-18 14:36:50,951 | INFO | aiogram.event | Update id=20805836 is handled. Duration 327 ms by bot id=8788022379
+2026-09-18 14:38:40,073 | INFO | handlers.users.start | User 6761866441 | command=/start | name=Idrisov Jasurbek
+2026-09-18 14:38:40,466 | INFO | aiogram.event | Update id=20805837 is handled. Duration 391 ms by bot id=8788022379
+2026-09-18 14:38:55,680 | INFO | handlers.users.start | User 6761866441 | command=/start | name=Idrisov Jasurbek
+2026-09-18 14:38:55,998 | INFO | aiogram.event | Update id=20805838 is handled. Duration 311 ms by bot id=8788022379
+2026-09-18 14:40:06,690 | INFO | aiogram.event | Update id=20805839 is handled. Duration 438 ms by bot id=8788022379
+2026-09-18 14:40:08,934 | INFO | aiogram.event | Update id=20805840 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:11,152 | INFO | aiogram.event | Update id=20805841 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:12,133 | INFO | aiogram.event | Update id=20805842 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:14,068 | INFO | handlers.users.start | User 6761866441 | action=registration_started
+2026-09-18 14:40:14,187 | INFO | aiogram.event | Update id=20805843 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:16,866 | INFO | aiogram.event | Update id=20805844 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:40:21,345 | INFO | aiogram.event | Update id=20805845 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:25,090 | INFO | aiogram.event | Update id=20805846 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:27,324 | INFO | handlers.users.start | User 6761866441 | action=registration_completed | name=Jasur Idrisov
+2026-09-18 14:40:27,453 | INFO | aiogram.event | Update id=20805847 is handled. Duration 139 ms by bot id=8788022379
+2026-09-18 14:40:29,518 | INFO | handlers.users.start | User 6761866441 | action=view_profile
+2026-09-18 14:40:29,647 | INFO | aiogram.event | Update id=20805848 is handled. Duration 140 ms by bot id=8788022379
+2026-09-18 14:40:32,911 | INFO | aiogram.event | Update id=20805849 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:44,866 | INFO | aiogram.event | Update id=20805850 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 14:40:50,385 | INFO | aiogram.event | Update id=20805851 is handled. Duration 265 ms by bot id=8788022379
+2026-09-18 14:41:01,981 | INFO | aiogram.event | Update id=20805852 is handled. Duration 264 ms by bot id=8788022379
+2026-09-18 14:41:08,367 | INFO | aiogram.event | Update id=20805853 is handled. Duration 1515 ms by bot id=8788022379
+2026-09-18 14:42:22,767 | INFO | aiogram.event | Update id=20805854 is handled. Duration 313 ms by bot id=8788022379
+2026-09-18 14:42:24,949 | INFO | aiogram.event | Update id=20805855 is handled. Duration 233 ms by bot id=8788022379
+2026-09-18 14:42:31,688 | INFO | aiogram.event | Update id=20805856 is handled. Duration 281 ms by bot id=8788022379
+2026-09-18 14:42:33,148 | INFO | aiogram.event | Update id=20805857 is handled. Duration 234 ms by bot id=8788022379
+2026-09-18 14:42:35,431 | INFO | aiogram.event | Update id=20805858 is handled. Duration 235 ms by bot id=8788022379
+2026-09-18 14:42:39,935 | INFO | aiogram.event | Update id=20805859 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:55:50,883 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-18 14:55:51,138 | INFO | student_bot | Bot stopped
+2026-09-18 14:55:51,138 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 14:55:51,138 | INFO | student_bot | Application stopped by user
+2026-09-18 14:55:54,169 | INFO | student_bot | Application starting
+2026-09-18 14:55:54,169 | INFO | student_bot | Database initialized
+2026-09-18 14:55:54,169 | INFO | student_bot | Routers registered
+2026-09-18 14:55:54,544 | INFO | student_bot | Bot commands configured
+2026-09-18 14:55:54,730 | INFO | student_bot | Student Bot is running
+2026-09-18 14:55:54,731 | INFO | aiogram.dispatcher | Start polling
+2026-09-18 14:55:54,825 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 14:56:06,968 | INFO | aiogram.event | Update id=20805860 is handled. Duration 343 ms by bot id=8788022379
+2026-09-18 14:56:13,464 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-18 14:56:13,630 | INFO | aiogram.event | Update id=20805861 is handled. Duration 156 ms by bot id=8788022379
+2026-09-18 14:56:26,298 | INFO | aiogram.event | Update id=20805862 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:56:32,047 | INFO | aiogram.event | Update id=20805863 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:56:32,300 | INFO | aiogram.event | Update id=20805864 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:56:37,862 | INFO | aiogram.event | Update id=20805865 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:56:41,866 | INFO | aiogram.event | Update id=20805866 is not handled. Duration 16 ms by bot id=8788022379
+2026-09-18 14:56:42,225 | INFO | aiogram.event | Update id=20805867 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:56:45,721 | INFO | aiogram.event | Update id=20805868 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 14:56:46,655 | INFO | aiogram.event | Update id=20805869 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 15:04:16,016 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-18 15:04:16,281 | INFO | student_bot | Bot stopped
+2026-09-18 15:04:16,281 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 15:04:16,281 | INFO | student_bot | Application stopped by user
+2026-09-18 15:04:19,209 | INFO | student_bot | Application starting
+2026-09-18 15:04:19,209 | INFO | student_bot | Database initialized
+2026-09-18 15:04:19,209 | INFO | student_bot | Routers registered
+2026-09-18 15:04:19,599 | INFO | student_bot | Bot commands configured
+2026-09-18 15:04:19,746 | INFO | student_bot | Student Bot is running
+2026-09-18 15:04:19,746 | INFO | aiogram.dispatcher | Start polling
+2026-09-18 15:04:19,840 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-18 15:04:25,419 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-18 15:04:25,753 | INFO | aiogram.event | Update id=20805870 is handled. Duration 328 ms by bot id=8788022379
+2026-09-18 15:04:29,382 | INFO | aiogram.event | Update id=20805871 is handled. Duration 125 ms by bot id=8788022379
+2026-09-18 15:04:32,291 | INFO | aiogram.event | Update id=20805872 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 15:04:34,548 | INFO | aiogram.event | Update id=20805873 is handled. Duration 250 ms by bot id=8788022379
+2026-09-18 15:04:39,416 | INFO | aiogram.event | Update id=20805874 is handled. Duration 609 ms by bot id=8788022379
+2026-09-18 15:04:44,330 | INFO | aiogram.event | Update id=20805875 is handled. Duration 1530 ms by bot id=8788022379
+2026-09-18 15:04:48,989 | INFO | aiogram.event | Update id=20805876 is handled. Duration 250 ms by bot id=8788022379
+2026-09-18 15:04:49,969 | INFO | aiogram.event | Update id=20805877 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 15:04:51,533 | INFO | aiogram.event | Update id=20805878 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 15:04:53,160 | INFO | aiogram.event | Update id=20805879 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 15:04:53,371 | INFO | aiogram.event | Update id=20805880 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-18 15:04:56,742 | INFO | aiogram.event | Update id=20805881 is not handled. Duration 16 ms by bot id=8788022379
+2026-09-21 13:59:15,838 | INFO | student_bot | Application starting
+2026-09-21 13:59:15,838 | INFO | student_bot | Database initialized
+2026-09-21 13:59:15,838 | INFO | student_bot | Routers registered
+2026-09-21 13:59:16,210 | INFO | student_bot | Bot commands configured
+2026-09-21 13:59:16,371 | INFO | student_bot | Student Bot is running
+2026-09-21 13:59:16,371 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 13:59:16,469 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 13:59:39,388 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 13:59:39,641 | INFO | student_bot | Bot stopped
+2026-09-21 13:59:39,641 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 13:59:39,641 | INFO | student_bot | Application stopped by user
+2026-09-21 13:59:42,059 | INFO | student_bot | Application starting
+2026-09-21 13:59:42,059 | INFO | student_bot | Database initialized
+2026-09-21 13:59:42,059 | INFO | student_bot | Routers registered
+2026-09-21 13:59:42,377 | INFO | student_bot | Bot commands configured
+2026-09-21 13:59:42,552 | INFO | student_bot | Student Bot is running
+2026-09-21 13:59:42,552 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 13:59:42,657 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 13:59:57,921 | INFO | handlers.users.start | User 7526643245 | command=/start | name=.
+2026-09-21 13:59:58,281 | INFO | aiogram.event | Update id=20805912 is handled. Duration 359 ms by bot id=8788022379
+2026-09-21 14:00:00,828 | WARNING | handlers.users.start | User 7526643245 | unauthorized command=/stats
+2026-09-21 14:00:00,962 | INFO | aiogram.event | Update id=20805913 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:00:02,941 | INFO | handlers.users.start | User 7526643245 | action=cancel
+2026-09-21 14:00:03,053 | INFO | aiogram.event | Update id=20805914 is handled. Duration 108 ms by bot id=8788022379
+2026-09-21 14:00:05,571 | INFO | handlers.users.start | User 7526643245 | command=/start | name=.
+2026-09-21 14:00:05,702 | INFO | aiogram.event | Update id=20805915 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:00:07,502 | INFO | aiogram.event | Update id=20805916 is handled. Duration 155 ms by bot id=8788022379
+2026-09-21 14:00:09,902 | INFO | aiogram.event | Update id=20805917 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:00:12,525 | INFO | handlers.users.start | User 7526643245 | action=view_profile
+2026-09-21 14:00:12,650 | INFO | aiogram.event | Update id=20805918 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:00:14,840 | INFO | handlers.users.start | User 7526643245 | action=edit_started
+2026-09-21 14:00:14,997 | INFO | aiogram.event | Update id=20805919 is handled. Duration 155 ms by bot id=8788022379
+2026-09-21 14:00:22,302 | INFO | aiogram.event | Update id=20805920 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:00:25,226 | INFO | handlers.users.start | User 7526643245 | action=profile_updated | field=first_name
+2026-09-21 14:00:25,351 | INFO | aiogram.event | Update id=20805921 is handled. Duration 155 ms by bot id=8788022379
+2026-09-21 14:00:27,569 | INFO | aiogram.event | Update id=20805922 is handled. Duration 141 ms by bot id=8788022379
+2026-09-21 14:00:29,080 | INFO | handlers.users.start | User 7526643245 | action=profile_deleted
+2026-09-21 14:00:29,472 | INFO | aiogram.event | Update id=20805923 is handled. Duration 390 ms by bot id=8788022379
+2026-09-21 14:00:34,716 | INFO | handlers.users.start | User 7526643245 | action=registration_started
+2026-09-21 14:00:35,101 | INFO | aiogram.event | Update id=20805924 is handled. Duration 390 ms by bot id=8788022379
+2026-09-21 14:00:42,263 | INFO | aiogram.event | Update id=20805925 is handled. Duration 141 ms by bot id=8788022379
+2026-09-21 14:00:44,649 | INFO | aiogram.event | Update id=20805926 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:00:47,665 | INFO | handlers.users.start | User 7526643245 | action=cancel
+2026-09-21 14:00:47,798 | INFO | aiogram.event | Update id=20805927 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:00:49,536 | INFO | aiogram.event | Update id=20805928 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:01:08,129 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-21 14:01:08,498 | INFO | aiogram.event | Update id=20805929 is handled. Duration 375 ms by bot id=8788022379
+2026-09-21 14:01:11,829 | INFO | aiogram.event | Update id=20805930 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:01:19,279 | INFO | aiogram.event | Update id=20805931 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:01:38,671 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 14:01:38,996 | INFO | aiogram.event | Update id=20805932 is handled. Duration 327 ms by bot id=8788022379
+2026-09-21 14:01:42,954 | INFO | handlers.users.start | User 1358152287 | action=cancel
+2026-09-21 14:01:43,093 | INFO | aiogram.event | Update id=20805933 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:01:48,753 | INFO | aiogram.event | Update id=20805934 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:01:50,835 | INFO | aiogram.event | Update id=20805935 is handled. Duration 155 ms by bot id=8788022379
+2026-09-21 14:01:52,033 | INFO | aiogram.event | Update id=20805936 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:01:53,553 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-21 14:01:53,675 | INFO | aiogram.event | Update id=20805937 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:01:56,686 | INFO | aiogram.event | Update id=20805938 is not handled. Duration 16 ms by bot id=8788022379
+2026-09-21 14:02:00,388 | INFO | aiogram.event | Update id=20805939 is handled. Duration 156 ms by bot id=8788022379
+2026-09-21 14:02:00,543 | INFO | aiogram.event | Update id=20805940 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:02:02,725 | INFO | aiogram.event | Update id=20805941 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:02:06,088 | INFO | aiogram.event | Update id=20805942 is not handled. Duration 15 ms by bot id=8788022379
+2026-09-21 14:02:09,624 | INFO | aiogram.event | Update id=20805943 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:11,453 | INFO | aiogram.event | Update id=20805944 is handled. Duration 234 ms by bot id=8788022379
+2026-09-21 14:02:29,506 | INFO | aiogram.event | Update id=20805945 is handled. Duration 625 ms by bot id=8788022379
+2026-09-21 14:02:32,265 | INFO | aiogram.event | Update id=20805946 is handled. Duration 1077 ms by bot id=8788022379
+2026-09-21 14:02:37,892 | INFO | aiogram.event | Update id=20805947 is handled. Duration 234 ms by bot id=8788022379
+2026-09-21 14:02:42,065 | INFO | aiogram.event | Update id=20805948 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:45,327 | INFO | aiogram.event | Update id=20805949 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:46,471 | INFO | aiogram.event | Update id=20805950 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:48,343 | INFO | aiogram.event | Update id=20805951 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:49,171 | INFO | aiogram.event | Update id=20805952 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:50,691 | INFO | aiogram.event | Update id=20805953 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:51,852 | INFO | aiogram.event | Update id=20805954 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:52,471 | INFO | aiogram.event | Update id=20805955 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:52,471 | INFO | aiogram.event | Update id=20805956 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:52,781 | INFO | aiogram.event | Update id=20805957 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:02:59,090 | INFO | aiogram.event | Update id=20805958 is handled. Duration 484 ms by bot id=8788022379
+2026-09-21 14:07:46,562 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-21 14:08:11,358 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 14:08:11,471 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+2026-09-21 14:08:11,471 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8788022379)
+2026-09-21 14:08:11,602 | INFO | aiogram.event | Update id=20805959 is not handled. Duration 25046 ms by bot id=8788022379
+2026-09-21 14:08:11,602 | ERROR | aiogram.event | Cause exception while process update id=20805959 by bot id=8788022379
+TelegramNetworkError: HTTP Client says - ClientConnectionError: Connector is closed.
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 170, in make_request
+    async with session.post(
+               ^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiohttp\client.py", line 1197, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiohttp\client.py", line 581, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiohttp\connector.py", line 547, in connect
+    raise ClientConnectionError("Connector is closed.")
+aiohttp.client_exceptions.ClientConnectionError: Connector is closed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\middlewares\throttling.py", line 30, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\users\start.py", line 66, in start
+    await message.answer(
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectionError: Connector is closed.
+2026-09-21 14:08:11,630 | INFO | student_bot | Bot stopped
+2026-09-21 14:08:11,630 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:08:11,633 | INFO | student_bot | Application stopped by user
+2026-09-21 14:08:14,008 | INFO | student_bot | Application starting
+2026-09-21 14:08:14,008 | INFO | student_bot | Database initialized
+2026-09-21 14:08:14,008 | INFO | student_bot | Routers registered
+2026-09-21 14:08:14,310 | INFO | student_bot | Bot commands configured
+2026-09-21 14:08:14,453 | INFO | student_bot | Student Bot is running
+2026-09-21 14:08:14,453 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:08:14,566 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:08:14,705 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-21 14:08:15,016 | INFO | aiogram.event | Update id=20805963 is not handled. Duration 312 ms by bot id=8788022379
+2026-09-21 14:08:15,016 | ERROR | aiogram.event | Cause exception while process update id=20805963 by bot id=8788022379
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 288, in admin_back
+    await callback.message.edit_text(
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-21 14:08:15,027 | INFO | aiogram.event | Update id=20805964 is handled. Duration 327 ms by bot id=8788022379
+2026-09-21 14:08:15,027 | INFO | aiogram.event | Update id=20805960 is not handled. Duration 327 ms by bot id=8788022379
+2026-09-21 14:08:15,027 | ERROR | aiogram.event | Cause exception while process update id=20805960 by bot id=8788022379
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 288, in admin_back
+    await callback.message.edit_text(
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-21 14:08:15,057 | INFO | aiogram.event | Update id=20805965 is handled. Duration 359 ms by bot id=8788022379
+2026-09-21 14:08:15,057 | INFO | aiogram.event | Update id=20805961 is not handled. Duration 359 ms by bot id=8788022379
+2026-09-21 14:08:15,057 | ERROR | aiogram.event | Cause exception while process update id=20805961 by bot id=8788022379
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 288, in admin_back
+    await callback.message.edit_text(
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-21 14:08:15,106 | INFO | aiogram.event | Update id=20805962 is not handled. Duration 405 ms by bot id=8788022379
+2026-09-21 14:08:15,106 | ERROR | aiogram.event | Cause exception while process update id=20805962 by bot id=8788022379
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 295, in admin_back
+    await callback.answer()
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2026-09-21 14:08:31,119 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-21 14:08:31,453 | INFO | aiogram.event | Update id=20805966 is handled. Duration 328 ms by bot id=8788022379
+2026-09-21 14:08:43,406 | INFO | aiogram.event | Update id=20805967 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:08:50,220 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 14:08:50,618 | INFO | aiogram.event | Update id=20805968 is handled. Duration 405 ms by bot id=8788022379
+2026-09-21 14:09:29,498 | INFO | handlers.users.start | User 1358152287 | action=cancel
+2026-09-21 14:09:29,821 | INFO | aiogram.event | Update id=20805969 is handled. Duration 328 ms by bot id=8788022379
+2026-09-21 14:09:34,198 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=1
+2026-09-21 14:09:34,319 | INFO | aiogram.event | Update id=20805970 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:09:45,486 | INFO | aiogram.event | Update id=20805971 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:09:50,072 | INFO | aiogram.event | Update id=20805972 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:09:55,638 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 14:09:55,759 | INFO | aiogram.event | Update id=20805973 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:38:39,591 | INFO | student_bot | Starting Student Bot...
+2026-09-21 14:38:39,592 | INFO | student_bot | Database initialized
+2026-09-21 14:38:39,592 | INFO | student_bot | Routers registered
+2026-09-21 14:38:39,993 | INFO | student_bot | Bot commands configured
+2026-09-21 14:38:40,183 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-21 14:38:40,183 | INFO | student_bot | Student Bot is running
+2026-09-21 14:38:40,184 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:38:40,287 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:38:52,557 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-21 14:38:52,950 | INFO | aiogram.event | Update id=20805974 is handled. Duration 389 ms by bot id=8788022379
+2026-09-21 14:38:55,606 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 14:38:55,774 | INFO | aiogram.event | Update id=20805975 is handled. Duration 172 ms by bot id=8788022379
+2026-09-21 14:39:01,283 | INFO | aiogram.event | Update id=20805976 is handled. Duration 139 ms by bot id=8788022379
+2026-09-21 14:39:06,521 | INFO | aiogram.event | Update id=20805977 is handled. Duration 172 ms by bot id=8788022379
+2026-09-21 14:39:08,985 | INFO | aiogram.event | Update id=20805978 is handled. Duration 139 ms by bot id=8788022379
+2026-09-21 14:39:13,255 | INFO | handlers.users.start | User 1358152287 | action=registration_completed | name=мустафо дилшодов
+2026-09-21 14:39:13,391 | INFO | aiogram.event | Update id=20805979 is handled. Duration 141 ms by bot id=8788022379
+2026-09-21 14:39:16,254 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=2
+2026-09-21 14:39:16,393 | INFO | aiogram.event | Update id=20805980 is handled. Duration 141 ms by bot id=8788022379
+2026-09-21 14:39:20,333 | INFO | aiogram.event | Update id=20805981 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:41:00,447 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 14:41:00,702 | INFO | student_bot | Bot session closed
+2026-09-21 14:41:00,702 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:41:00,702 | INFO | student_bot | Application stopped by user
+2026-09-21 14:41:03,430 | INFO | student_bot | Starting Student Bot...
+2026-09-21 14:41:03,430 | INFO | student_bot | Database initialized
+2026-09-21 14:41:03,430 | INFO | student_bot | Routers registered
+2026-09-21 14:41:03,813 | INFO | student_bot | Bot commands configured
+2026-09-21 14:41:03,964 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-21 14:41:03,964 | INFO | student_bot | Student Bot is running
+2026-09-21 14:41:03,964 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:41:04,068 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:41:07,932 | INFO | handlers.admin.panel | Admin 1358152287 | action=statistics_button | students=2
+2026-09-21 14:41:08,262 | INFO | aiogram.event | Update id=20805982 is handled. Duration 327 ms by bot id=8788022379
+2026-09-21 14:41:14,185 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=2
+2026-09-21 14:41:14,307 | INFO | aiogram.event | Update id=20805983 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:41:17,404 | INFO | aiogram.event | Update id=20805984 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:41:20,124 | INFO | aiogram.event | Update id=20805985 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:42:02,067 | INFO | aiogram.event | Update id=20805986 is handled. Duration 516 ms by bot id=8788022379
+2026-09-21 14:42:03,394 | INFO | aiogram.event | Update id=20805987 is handled. Duration 297 ms by bot id=8788022379
+2026-09-21 14:42:04,465 | INFO | aiogram.event | Update id=20805988 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:43:11,150 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 14:43:11,403 | INFO | student_bot | Bot session closed
+2026-09-21 14:43:11,404 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:43:11,404 | INFO | student_bot | Application stopped by user
+2026-09-21 14:43:14,234 | INFO | student_bot | Starting Student Bot...
+2026-09-21 14:43:14,234 | INFO | student_bot | Database initialized
+2026-09-21 14:43:14,234 | INFO | student_bot | Routers registered
+2026-09-21 14:43:14,535 | INFO | student_bot | Bot commands configured
+2026-09-21 14:43:14,680 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-21 14:43:14,681 | INFO | student_bot | Student Bot is running
+2026-09-21 14:43:14,681 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:43:14,779 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:43:22,300 | INFO | aiogram.event | Update id=20805989 is handled. Duration 391 ms by bot id=8788022379
+2026-09-21 14:43:23,921 | INFO | aiogram.event | Update id=20805990 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:43:27,721 | INFO | aiogram.event | Update id=20805991 is handled. Duration 297 ms by bot id=8788022379
+2026-09-21 14:43:30,244 | INFO | aiogram.event | Update id=20805992 is handled. Duration 391 ms by bot id=8788022379
+2026-09-21 14:43:37,166 | INFO | handlers.admin.panel | Admin 1358152287 | advertisement completed | total=2 | sent=2 | failed=0
+2026-09-21 14:43:37,405 | INFO | aiogram.event | Update id=20805993 is handled. Duration 1625 ms by bot id=8788022379
+2026-09-21 14:43:40,848 | INFO | aiogram.event | Update id=20805994 is handled. Duration 235 ms by bot id=8788022379
+2026-09-21 14:43:43,452 | INFO | aiogram.event | Update id=20805995 is handled. Duration 233 ms by bot id=8788022379
+2026-09-21 14:43:49,354 | INFO | aiogram.event | Update id=20805996 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:43:54,172 | INFO | aiogram.event | Update id=20805997 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:45:14,050 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 14:45:14,305 | INFO | student_bot | Bot session closed
+2026-09-21 14:45:14,305 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:45:14,305 | INFO | student_bot | Application stopped by user
+2026-09-21 14:45:16,843 | INFO | student_bot | Starting Student Bot...
+2026-09-21 14:45:16,843 | INFO | student_bot | Database initialized
+2026-09-21 14:45:16,843 | INFO | student_bot | Routers registered
+2026-09-21 14:45:17,121 | INFO | student_bot | Bot commands configured
+2026-09-21 14:45:17,255 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-21 14:45:17,255 | INFO | student_bot | Student Bot is running
+2026-09-21 14:45:17,255 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:45:17,347 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:45:21,033 | INFO | aiogram.event | Update id=20805998 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:45:25,688 | INFO | aiogram.event | Update id=20805999 is handled. Duration 407 ms by bot id=8788022379
+2026-09-21 14:45:27,603 | INFO | aiogram.event | Update id=20806000 is handled. Duration 342 ms by bot id=8788022379
+2026-09-21 14:45:33,995 | INFO | aiogram.event | Update id=20806001 is handled. Duration 233 ms by bot id=8788022379
+2026-09-21 14:45:38,042 | INFO | aiogram.event | Update id=20806002 is not handled. Duration 16 ms by bot id=8788022379
+2026-09-21 14:45:40,852 | INFO | aiogram.event | Update id=20806003 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 14:45:43,586 | INFO | aiogram.event | Update id=20806004 is not handled. Duration 16 ms by bot id=8788022379
+2026-09-21 14:45:45,587 | INFO | aiogram.event | Update id=20806005 is not handled. Duration 15 ms by bot id=8788022379
+2026-09-21 14:45:48,350 | INFO | handlers.admin.panel | Admin 1358152287 | action=admin_stats | students=2
+2026-09-21 14:45:48,471 | INFO | aiogram.event | Update id=20806006 is handled. Duration 265 ms by bot id=8788022379
+2026-09-21 14:45:52,643 | INFO | aiogram.event | Update id=20806007 is handled. Duration 110 ms by bot id=8788022379
+2026-09-21 14:45:56,752 | INFO | aiogram.event | Update id=20806008 is handled. Duration 219 ms by bot id=8788022379
+2026-09-21 14:45:59,521 | INFO | aiogram.event | Update id=20806009 is handled. Duration 297 ms by bot id=8788022379
+2026-09-21 14:46:03,350 | INFO | aiogram.event | Update id=20806010 is handled. Duration 202 ms by bot id=8788022379
+2026-09-21 14:46:04,452 | INFO | aiogram.event | Update id=20806011 is handled. Duration 234 ms by bot id=8788022379
+2026-09-21 14:46:08,802 | INFO | aiogram.event | Update id=20806012 is not handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:46:08,802 | ERROR | aiogram.event | Cause exception while process update id=20806012 by bot id=8788022379
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 360, in last_advertisement
+    await callback.message.edit_text(
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-21 14:46:11,471 | INFO | aiogram.event | Update id=20806013 is not handled. Duration 109 ms by bot id=8788022379
+2026-09-21 14:46:11,482 | ERROR | aiogram.event | Cause exception while process update id=20806013 by bot id=8788022379
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 360, in last_advertisement
+    await callback.message.edit_text(
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-21 14:46:13,071 | INFO | aiogram.event | Update id=20806014 is handled. Duration 219 ms by bot id=8788022379
+2026-09-21 14:46:14,893 | INFO | aiogram.event | Update id=20806015 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:46:16,239 | INFO | aiogram.event | Update id=20806016 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:46:16,505 | INFO | aiogram.event | Update id=20806017 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:48:31,865 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 14:48:32,121 | INFO | student_bot | Bot session closed
+2026-09-21 14:48:32,121 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:48:32,121 | INFO | student_bot | Application stopped by user
+2026-09-21 14:48:34,374 | INFO | student_bot | Starting Student Bot...
+2026-09-21 14:48:34,374 | INFO | student_bot | Database initialized
+2026-09-21 14:48:34,374 | INFO | student_bot | Routers registered
+2026-09-21 14:48:34,712 | INFO | student_bot | Bot commands configured
+2026-09-21 14:48:34,850 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-21 14:48:34,850 | INFO | student_bot | Student Bot is running
+2026-09-21 14:48:34,850 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:48:34,944 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:48:39,976 | INFO | aiogram.event | Update id=20806018 is handled. Duration 342 ms by bot id=8788022379
+2026-09-21 14:48:41,987 | INFO | aiogram.event | Update id=20806019 is handled. Duration 265 ms by bot id=8788022379
+2026-09-21 14:48:43,501 | INFO | aiogram.event | Update id=20806020 is handled. Duration 219 ms by bot id=8788022379
+2026-09-21 14:48:44,785 | INFO | aiogram.event | Update id=20806021 is handled. Duration 217 ms by bot id=8788022379
+2026-09-21 14:48:47,500 | INFO | aiogram.event | Update id=20806022 is handled. Duration 219 ms by bot id=8788022379
+2026-09-21 14:48:48,933 | INFO | aiogram.event | Update id=20806023 is not handled. Duration 15 ms by bot id=8788022379
+2026-09-21 14:48:49,689 | INFO | aiogram.event | Update id=20806024 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:48:50,304 | INFO | handlers.admin.panel | Admin 1358152287 | action=admin_stats | students=2
+2026-09-21 14:48:50,441 | INFO | aiogram.event | Update id=20806025 is handled. Duration 265 ms by bot id=8788022379
+2026-09-21 14:48:54,366 | INFO | aiogram.event | Update id=20806026 is not handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:48:54,366 | ERROR | aiogram.event | Cause exception while process update id=20806026 by bot id=8788022379
+TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\handlers\admin\panel.py", line 501, in admin_stats
+    await callback.message.edit_text(
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\bot.py", line 492, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Comping Uz\aiogram3-template\.venv\Lib\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2026-09-21 14:51:32,894 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 14:51:33,156 | INFO | student_bot | Bot session closed
+2026-09-21 14:51:33,156 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:51:33,156 | INFO | student_bot | Application stopped by user
+2026-09-21 14:51:36,100 | INFO | student_bot | Starting Student Bot...
+2026-09-21 14:51:36,100 | INFO | student_bot | Database initialized
+2026-09-21 14:51:36,100 | INFO | student_bot | Routers registered
+2026-09-21 14:51:36,456 | INFO | student_bot | Bot commands configured
+2026-09-21 14:51:36,602 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-21 14:51:36,602 | INFO | student_bot | Student Bot is running
+2026-09-21 14:51:36,603 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:51:36,695 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:51:42,486 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-21 14:51:42,851 | INFO | aiogram.event | Update id=20806027 is handled. Duration 375 ms by bot id=8788022379
+2026-09-21 14:51:44,999 | INFO | aiogram.event | Update id=20806028 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:51:46,853 | INFO | aiogram.event | Update id=20806029 is handled. Duration 328 ms by bot id=8788022379
+2026-09-21 14:51:48,150 | INFO | aiogram.event | Update id=20806030 is handled. Duration 264 ms by bot id=8788022379
+2026-09-21 14:51:54,782 | INFO | aiogram.event | Update id=20806031 is handled. Duration 217 ms by bot id=8788022379
+2026-09-21 14:51:55,689 | INFO | aiogram.event | Update id=20806032 is handled. Duration 219 ms by bot id=8788022379
+2026-09-21 14:51:56,103 | INFO | aiogram.event | Update id=20806033 is handled. Duration 467 ms by bot id=8788022379
+2026-09-21 14:52:00,966 | INFO | aiogram.event | Update id=20806034 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 14:52:01,821 | INFO | handlers.admin.panel | Admin 1358152287 | action=admin_settings
+2026-09-21 14:52:01,952 | INFO | aiogram.event | Update id=20806035 is handled. Duration 265 ms by bot id=8788022379
+2026-09-21 14:52:08,651 | INFO | aiogram.event | Update id=20806036 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 14:52:16,008 | INFO | handlers.admin.panel | Admin 1358152287 | action=admin_stats | students=2
+2026-09-21 14:52:16,135 | INFO | aiogram.event | Update id=20806037 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 14:52:18,371 | INFO | aiogram.event | Update id=20806038 is handled. Duration 233 ms by bot id=8788022379
+2026-09-21 14:52:19,700 | INFO | aiogram.event | Update id=20806039 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 14:52:24,151 | INFO | handlers.admin.panel | Admin 1358152287 | action=admin_settings
+2026-09-21 14:52:24,265 | INFO | aiogram.event | Update id=20806040 is handled. Duration 266 ms by bot id=8788022379
+2026-09-21 14:52:25,921 | INFO | aiogram.event | Update id=20806041 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 14:52:28,476 | INFO | aiogram.event | Update id=20806042 is handled. Duration 359 ms by bot id=8788022379
+2026-09-21 14:52:30,435 | INFO | aiogram.event | Update id=20806043 is handled. Duration 328 ms by bot id=8788022379
+2026-09-21 14:52:32,400 | INFO | aiogram.event | Update id=20806044 is handled. Duration 296 ms by bot id=8788022379
+2026-09-21 14:54:24,100 | INFO | aiogram.event | Update id=20806045 is handled. Duration 313 ms by bot id=8788022379
+2026-09-21 14:54:29,649 | INFO | aiogram.event | Update id=20806046 is handled. Duration 139 ms by bot id=8788022379
+2026-09-21 14:54:31,144 | INFO | handlers.users.start | User 1358152287 | action=profile_deleted
+2026-09-21 14:54:31,549 | INFO | aiogram.event | Update id=20806047 is handled. Duration 405 ms by bot id=8788022379
+2026-09-21 14:54:33,321 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 14:54:33,437 | INFO | aiogram.event | Update id=20806048 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:54:39,791 | INFO | aiogram.event | Update id=20806049 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:54:43,267 | INFO | aiogram.event | Update id=20806050 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:54:44,747 | INFO | aiogram.event | Update id=20806051 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:54:47,671 | INFO | aiogram.event | Update id=20806052 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:54:51,439 | INFO | handlers.users.start | User 1358152287 | action=registration_completed | name=мустафо пыыкпук
+2026-09-21 14:54:51,559 | INFO | aiogram.event | Update id=20806053 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:54:58,649 | INFO | aiogram.event | Update id=20806054 is handled. Duration 155 ms by bot id=8788022379
+2026-09-21 14:55:02,352 | INFO | aiogram.event | Update id=20806055 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 14:55:11,012 | INFO | aiogram.event | Update id=20806056 is handled. Duration 391 ms by bot id=8788022379
+2026-09-21 14:55:15,587 | INFO | handlers.admin.panel | Admin 1358152287 | advertisement completed | total=2 | sent=2 | failed=0
+2026-09-21 14:55:15,853 | INFO | aiogram.event | Update id=20806057 is handled. Duration 1515 ms by bot id=8788022379
+2026-09-21 14:55:19,760 | INFO | aiogram.event | Update id=20806058 is handled. Duration 297 ms by bot id=8788022379
+2026-09-21 14:55:21,634 | INFO | handlers.admin.panel | Admin 1358152287 | action=admin_stats | students=2
+2026-09-21 14:55:21,767 | INFO | aiogram.event | Update id=20806059 is handled. Duration 266 ms by bot id=8788022379
+2026-09-21 14:55:53,818 | INFO | handlers.admin.panel | Admin 1358152287 | action=admin_history | count=1
+2026-09-21 14:55:53,921 | INFO | aiogram.event | Update id=20806060 is handled. Duration 469 ms by bot id=8788022379
+2026-09-21 14:56:47,735 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-21 14:56:47,988 | INFO | student_bot | Bot session closed
+2026-09-21 14:56:47,988 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:56:47,988 | INFO | student_bot | Application stopped by user
+2026-09-21 14:56:50,846 | INFO | student_bot | Starting Student Bot...
+2026-09-21 14:56:50,846 | INFO | student_bot | Database initialized
+2026-09-21 14:56:50,846 | INFO | student_bot | Routers registered
+2026-09-21 14:56:51,195 | INFO | student_bot | Bot commands configured
+2026-09-21 14:56:51,358 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-21 14:56:51,359 | INFO | student_bot | Student Bot is running
+2026-09-21 14:56:51,359 | INFO | aiogram.dispatcher | Start polling
+2026-09-21 14:56:51,448 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-21 14:56:55,397 | INFO | aiogram.event | Update id=20806061 is handled. Duration 313 ms by bot id=8788022379
+2026-09-21 14:56:56,471 | INFO | handlers.users.start | User 1358152287 | action=profile_deleted
+2026-09-21 14:56:56,846 | INFO | aiogram.event | Update id=20806062 is handled. Duration 375 ms by bot id=8788022379
+2026-09-21 14:56:59,098 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 14:56:59,226 | INFO | aiogram.event | Update id=20806063 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:57:03,984 | INFO | aiogram.event | Update id=20806064 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:57:06,371 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 14:57:06,551 | INFO | aiogram.event | Update id=20806065 is handled. Duration 172 ms by bot id=8788022379
+2026-09-21 14:57:10,754 | INFO | aiogram.event | Update id=20806066 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:57:14,199 | INFO | aiogram.event | Update id=20806067 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:57:26,081 | INFO | aiogram.event | Update id=20806068 is handled. Duration 109 ms by bot id=8788022379
+2026-09-21 14:57:28,592 | INFO | aiogram.event | Update id=20806069 is handled. Duration 171 ms by bot id=8788022379
+2026-09-21 14:57:30,698 | INFO | aiogram.event | Update id=20806070 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:57:38,064 | INFO | aiogram.event | Update id=20806071 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:57:40,577 | INFO | aiogram.event | Update id=20806072 is handled. Duration 172 ms by bot id=8788022379
+2026-09-21 14:57:46,790 | INFO | aiogram.event | Update id=20806073 is handled. Duration 141 ms by bot id=8788022379
+2026-09-21 14:57:50,123 | INFO | aiogram.event | Update id=20806074 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:57:53,868 | INFO | handlers.users.start | User 1358152287 | action=registration_completed | name=ууцавыааы ауцаца
+2026-09-21 14:57:53,990 | INFO | aiogram.event | Update id=20806075 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:58:22,982 | INFO | handlers.users.start | User 5069071823 | command=/start | name=Shomurod
+2026-09-21 14:58:23,402 | INFO | aiogram.event | Update id=20806076 is handled. Duration 421 ms by bot id=8788022379
+2026-09-21 14:58:30,746 | INFO | handlers.users.start | User 5069071823 | action=registration_started
+2026-09-21 14:58:30,878 | INFO | aiogram.event | Update id=20806077 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:58:44,321 | INFO | aiogram.event | Update id=20806078 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:58:49,758 | INFO | aiogram.event | Update id=20806079 is handled. Duration 266 ms by bot id=8788022379
+2026-09-21 14:59:00,837 | INFO | aiogram.event | Update id=20806080 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:59:06,847 | INFO | handlers.users.start | User 5069071823 | action=registration_completed | name=mustafo chichko
+2026-09-21 14:59:06,971 | INFO | aiogram.event | Update id=20806081 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 14:59:12,078 | INFO | handlers.users.start | User 5069071823 | action=view_profile
+2026-09-21 14:59:12,216 | INFO | aiogram.event | Update id=20806082 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 14:59:28,157 | INFO | aiogram.event | Update id=20806083 is not handled. Duration 0 ms by bot id=8788022379
+2026-09-21 14:59:58,821 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=3
+2026-09-21 14:59:59,153 | INFO | aiogram.event | Update id=20806084 is handled. Duration 327 ms by bot id=8788022379
+2026-09-21 15:00:20,284 | INFO | handlers.users.start | Admin 1358152287 | action=delete_student | target=5069071823
+2026-09-21 15:00:20,604 | INFO | aiogram.event | Update id=20806085 is handled. Duration 328 ms by bot id=8788022379
+2026-09-21 15:00:25,865 | INFO | handlers.users.start | Admin 1358152287 | action=view_all_students | count=2
+2026-09-21 15:00:26,102 | INFO | aiogram.event | Update id=20806086 is handled. Duration 250 ms by bot id=8788022379
+2026-09-21 15:00:34,775 | INFO | handlers.users.start | User 5069071823 | command=/start | name=Shomurod
+2026-09-21 15:00:34,918 | INFO | aiogram.event | Update id=20806087 is handled. Duration 141 ms by bot id=8788022379
+2026-09-21 15:00:36,154 | INFO | aiogram.event | Update id=20806088 is handled. Duration 155 ms by bot id=8788022379
+2026-09-21 15:00:41,173 | INFO | aiogram.event | Update id=20806089 is handled. Duration 141 ms by bot id=8788022379
+2026-09-21 15:01:02,537 | INFO | handlers.users.start | User 1358152287 | command=/start | name=М
+2026-09-21 15:01:02,871 | INFO | aiogram.event | Update id=20806090 is handled. Duration 344 ms by bot id=8788022379
+2026-09-21 15:01:04,886 | INFO | aiogram.event | Update id=20806091 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 15:01:07,001 | INFO | aiogram.event | Update id=20806092 is handled. Duration 202 ms by bot id=8788022379
+2026-09-21 15:01:08,362 | INFO | handlers.users.start | User 1358152287 | action=profile_deleted
+2026-09-21 15:01:08,797 | INFO | aiogram.event | Update id=20806093 is handled. Duration 438 ms by bot id=8788022379
+2026-09-21 15:01:09,972 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-21 15:01:10,171 | INFO | aiogram.event | Update id=20806094 is handled. Duration 203 ms by bot id=8788022379
+2026-09-21 15:01:16,181 | INFO | aiogram.event | Update id=20806095 is handled. Duration 140 ms by bot id=8788022379
+2026-09-21 15:01:17,680 | INFO | aiogram.event | Update id=20806096 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 15:01:20,238 | INFO | aiogram.event | Update id=20806097 is handled. Duration 109 ms by bot id=8788022379
+2026-09-21 15:01:28,440 | INFO | aiogram.event | Update id=20806098 is handled. Duration 125 ms by bot id=8788022379
+2026-09-21 15:01:32,999 | INFO | aiogram.event | Update id=20806099 is handled. Duration 125 ms by bot id=8788022379
+2026-09-23 13:44:07,782 | INFO | student_bot | Starting Student Bot...
+2026-09-23 13:44:07,782 | INFO | student_bot | Database initialized
+2026-09-23 13:44:07,782 | INFO | student_bot | Routers registered
+2026-09-23 13:44:08,184 | INFO | student_bot | Bot commands configured
+2026-09-23 13:44:08,344 | INFO | utils.notify_admins | Startup notification sent | admin=1358152287
+2026-09-23 13:44:08,344 | INFO | student_bot | Student Bot is running
+2026-09-23 13:44:08,344 | INFO | aiogram.dispatcher | Start polling
+2026-09-23 13:44:08,452 | INFO | aiogram.dispatcher | Run polling for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-23 13:44:18,246 | INFO | handlers.users.start | User 1358152287 | action=registration_started
+2026-09-23 13:44:18,599 | INFO | aiogram.event | Update id=20806100 is handled. Duration 360 ms by bot id=8788022379
+2026-09-23 13:44:21,430 | INFO | aiogram.event | Update id=20806101 is handled. Duration 125 ms by bot id=8788022379
+2026-09-23 14:06:09,180 | INFO | aiogram.dispatcher | Polling stopped
+2026-09-23 14:06:09,435 | INFO | student_bot | Bot session closed
+2026-09-23 14:06:09,435 | INFO | aiogram.dispatcher | Polling stopped for bot @musfag_bot id=8788022379 - 'Mustafo'
+2026-09-23 14:06:09,435 | INFO | student_bot | Application stopped by user
